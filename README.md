@@ -6,10 +6,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kyush02/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/kyush02/DSA-LeetCode/tree/master/0169-majority-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kyush02/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kyush02/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kyush02/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kyush02/DSA-LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kyush02/DSA-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
